@@ -108,5 +108,6 @@ hr {
     margin-left: 10%;
 }
 .section img{
-    margin-left: 34%;
+    display: block;
+    margin: 0 auto;
 }
