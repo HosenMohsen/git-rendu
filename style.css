@@ -1,0 +1,24 @@
+.contact-box a {
+    color: black;
+}
+
+
+.contact-text{
+    display: flex;
+    text-align: left;
+    font-size: x-large;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+.contact-logo{
+    display: flex;
+    text-align: center;
+    align-items:center;
+    font-size: 40px;
+    justify-content: center;
+    margin-right: 100px;
+}
+
+i{
+    padding-left: 8rem;
+} 
