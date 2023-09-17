@@ -111,3 +111,15 @@ hr {
     display: block;
     margin: 0 auto;
 }
+
+.presentation{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.presentation p{
+    margin-left: 5rem;
+    font-size: x-large;
+    font-weight: bold;
+}
