@@ -44,3 +44,66 @@ header {
 .nav-menu a:hover {
     color: orange; 
 }
+.contact-box a {
+    color: black;
+}
+
+
+.contact-text{
+    display: flex;
+    text-align: left;
+    font-size: x-large;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+.contact-logo{
+    display: flex;
+    text-align: center;
+    align-items:center;
+    font-size: 40px;
+    justify-content: center;
+    margin-right: 100px;
+}
+
+i{
+    padding-left: 8rem;
+} 
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; 
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+}
+.pdp {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    overflow: hidden; 
+}
+
+.pdp img {
+    width: 100%; 
+    height: auto;
+    object-fit: cover; 
+}
+
+.pres{
+    display: flex;
+}
+.pres h2{
+    margin-left: 10%;
+}
